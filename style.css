@@ -1,0 +1,30 @@
+.flex-container{
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+
+}
+
+.content{
+    padding: 10x;
+    border-width: 2px;
+    border-color: rgb(14, 14, 56);
+    border-style: dotted;
+    border-radius: 50px;
+
+}
+
+.header{
+    padding: 5px;
+    margin-bottom: 30px;
+    border-width: 2px;
+    border-color: rgb(54, 17, 75);
+    border-style: solid;
+    border-radius: 50px;
+    background-color: rgb(218, 210, 223);
+}
+
+body{
+    background-color: rgb(222, 221, 224);
+}
+
